@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lightbarbara
 - 👀 I’m interested in chemical engineering, programming, finances, administration, entrepreneurship
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking for collaborating on new projects
 - 📫 How to reach me: barbaraluz@eq.ufrj.br
 
 <!---
